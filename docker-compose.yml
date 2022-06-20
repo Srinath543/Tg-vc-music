@@ -3,10 +3,10 @@ services:
   worker:
     build: .
     environment:
-      API_ID: 164
-      API_HASH: e44be9cbd9ed3eeb1775bc7a562a2df3
-      BOT_TOKEN: 5463433768:AAHB5B85WBIum_HsmfjDjs
-      MONGO_DB_URI: mongodb+srv://thiru999:/myFirstDatabase?retryWrites=true&w=majority
+      API_ID: 
+      API_HASH: 
+      BOT_TOKEN: 
+      MONGO_DB_URI: 
       LOG_GROUP_ID: 
       MUSIC_BOT_NAME: WolfXRobot
       OWNER_ID: 2050505901
@@ -29,8 +29,8 @@ services:
       AUTO_DOWNLOADS_CLEAR: $AUTO_DOWNLOADS_CLEAR
       AUTO_SUGGESTION_MODE: $AUTO_SUGGESTION_MODE
       AUTO_SUGGESTION_TIME: $AUTO_SUGGESTION_TIME
-      SPOTIFY_CLIENT_ID: d62dfa3f7f7743b6a03645e4bc2654f5
-      SPOTIFY_CLIENT_SECRET: e1c973aa58c64e399efc541eb894e3cc
+      SPOTIFY_CLIENT_ID: 
+      SPOTIFY_CLIENT_SECRET: 
       HEROKU_API_KEY: $HEROKU_API_KEY
       HEROKU_APP_NAME: $HEROKU_APP_NAME
       UPSTREAM_REPO: $UPSTREAM_REPO
