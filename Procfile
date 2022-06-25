@@ -1,1 +1,1 @@
-worker: python3 -m yukkimusic 
+worker: python3 -m YukkiMusic 
