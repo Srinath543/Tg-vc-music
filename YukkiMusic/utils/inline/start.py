@@ -42,7 +42,7 @@ def start_pannel(_):
         if SUPPORT_CHANNEL:
             buttons.append(
                 [
-                    InlineKeyboardButton(
+                    InlineKeyboar"dButton(
                         text=_["S_B_4"], url=f"{SUPPORT_CHANNEL}"
                     )
                 ]
@@ -51,7 +51,7 @@ def start_pannel(_):
             buttons.append(
                 [
                     InlineKeyboardButton(
-                        text=_["S_B_3"], url=f"{SUPPORT_GROUP}"
+                        text=_["S_B_3"], url=f"https://t.me/Tamil_chat_junctions"
                     )
                 ]
             )
